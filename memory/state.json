@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "learning_style": "unknown",
+    "preferred_depth": "normal",
+    "pace": "adaptive"
+  },
+  "progress": {
+    "topics_covered": [],
+    "current_topic": null,
+    "mastery": {}
+  },
+  "performance": {
+    "strengths": [],
+    "weaknesses": [],
+    "last_quiz_score": null
+  },
+  "notes": ""
+}
